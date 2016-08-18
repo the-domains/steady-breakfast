@@ -15,15 +15,14 @@ description: >-
   Thrones Funny Bloopers 2016: https://youtu.be/7SoPftgoUbk Game of Thrones Cast
   Funny Moments Compilation . . . . hahaha so funny hilarious
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=fnxEyt570f8'
 title: Game of Thrones Cast Funny Moments Compilation
-datePublished: '2016-07-02T18:11:19.972Z'
-dateModified: '2016-07-02T18:11:07.185Z'
-starred: false
+datePublished: '2016-08-18T12:58:24.008Z'
+dateModified: '2016-08-18T12:58:23.501Z'
 sourcePath: _posts/2016-07-02-game-of-thrones-cast-funny-moments-compilation.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: game-of-thrones-cast-funny-moments-compilation/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
