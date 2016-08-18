@@ -12,3 +12,7 @@ color:
     - '#B64926'
     - '#8E2800'
 name: steady breakfast
+navigation:
+  - name: GoT Test
+    id: 79028b2f-f46e-42a8-9f0f-f79f89892286
+    type: content
